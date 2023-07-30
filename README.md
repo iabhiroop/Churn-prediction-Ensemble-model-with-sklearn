@@ -21,7 +21,7 @@ This repository is an example of a custom ensmeble model done with the given dat
 ### How to Use the Repository
 - **Clone the Repository:** Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/your_username/repo_name.git
+git clone [https://github.com/your_username/repo_name.git](https://github.com/iabhiroop/Ensemble-model-with-sklearn.git)
 ```
 - **Install Dependencies:** Ensure you have Python 3.x installed and the required libraries by running-
 ```
