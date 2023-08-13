@@ -1,4 +1,4 @@
-# Churn_prediction_Ensemble_model_with_sklearn
+# Custom Ensemble Model for Churn Prediction without sklearn's Methods
 
 This repository is an example of a custom ensmeble model done with the given dataset for churn prediction without the use of sklearn's in-built ensemble methods. A total of 6 models are part of the ensemble.
 
